@@ -1,4 +1,4 @@
-# Flying Color — publishing and Instagram auto-gallery
+# Flying Colors — publishing and Instagram auto-gallery
 
 Account: **@flyingcolors15** (Instagram Business account, connected to a Facebook Page)
 
