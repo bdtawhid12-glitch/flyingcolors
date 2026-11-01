@@ -1,4 +1,4 @@
-# Flying Color — website starter
+# Flying Colors — website starter
 
 Personalized for Instagram **@flyingcolors15**. This version is prepared to show real Instagram media after the account owner authorizes Meta API access.
 
